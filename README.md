@@ -1,6 +1,6 @@
 # SOC-and-NM
 
-This is a simple web application built for the SOC & NM department employees as a central hub to access their various internal web applications. Users can visit this webpage and access any needed application with a single click, eliminating the need to remember individual URLs.
+This is a simple web application built for the SOC & NM department employees of Sri Lanka Telecom as a central hub to access their various internal web applications. Users can visit this webpage and access any needed application with a single click, eliminating the need to remember individual URLs.
 
 ## Functionalities of the web application
 
