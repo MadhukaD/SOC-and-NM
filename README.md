@@ -1,15 +1,16 @@
 # SOC-and-NM
 
-This is a simple web application built for the employees in SOC & NM department as a central point to access their internally used different web applications. Users can visit this web page and access the web application they need in a single click instead of remembering the URL for each app.
+This is a simple web application built for the SOC & NM department employees as a central hub to access their various internal web applications. Users can visit this webpage and access any needed application with a single click, eliminating the need to remember individual URLs.
 
 ## Functionalities of the web application
 
-- Access the web applications easily that are used by the SOC & NM department internally.
-- Request Access for a web application by submitting ashort form if the user has no access.
-- Get the latest news, apps, features, products through Carousels.
+- Easily access internal SOC & NM web applications in one centralized location. No more hunting for individual URLs!
+- Submit a quick and easy access request form directly within the platform if you don't have access yet.
+- Get the latest updates on news, applications, features, and products through engaging carousels, keeping you informed on the go.
+- View all access requests submitted by users within the application, ensuring an efficient authorization process.
 
 ## Tool Stack
-To build this web application, I used Figma for UI designing, MERN (MongoDB, ExpressJs, ReactJs, NodeJs) stack for development and Bootstrap for styling. Used a local NodeJs server as the development platform and an Amazon EC2 for testing and deployment.
+I designed the user interface (UI) with Figma and developed the application using the MERN stack (MongoDB, Express.js, React.js, Node.js). Bootstrap provided the styling framework. For development, I utilized a local Node.js server. Amazon EC2 served as the platform for testing and deployment.
 <p align="left" >
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="html5" width="40" height="40"/> </a>
