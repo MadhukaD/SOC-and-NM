@@ -22,9 +22,9 @@ I designed the user interface (UI) with Figma and developed the application usin
 </p>
 
 ## Screenshoots
-
-![SOC NM1](https://github.com/MadhukaD/SOC-and-NM/assets/83831219/784be6ff-e4d8-4712-a09a-fa43421498c3)
-
+![1](https://github.com/MadhukaD/SOC-and-NM/assets/83831219/f5cfa017-55df-4652-9471-ed8bd609eb9b)
+![Services](https://github.com/MadhukaD/SOC-and-NM/assets/83831219/da06ea57-6800-4e3c-ac10-a30a2f29411c)
+![AR](https://github.com/MadhukaD/SOC-and-NM/assets/83831219/17f910a6-88a4-40d6-9ce9-6903a3019c0c)
 
 <br>
 
