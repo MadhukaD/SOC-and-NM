@@ -23,4 +23,9 @@ I designed the user interface (UI) with Figma and developed the application usin
 
 ## Screenshoots
 
+![SOC NM1](https://github.com/MadhukaD/SOC-and-NM/assets/83831219/784be6ff-e4d8-4712-a09a-fa43421498c3)
 
+
+<br>
+
+***To maintain confidentiality and protect proprietary information, the source code has not been uploaded to this repository.***
